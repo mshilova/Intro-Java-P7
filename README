@@ -1,0 +1,3 @@
+Application program for fundumental Exception handling. Scanner reads from
+keyboard input, handles unchecked Exceptions: NumberFormatException and
+ArrayIndexOutOfBoundsException.
